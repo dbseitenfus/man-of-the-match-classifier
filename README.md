@@ -1,6 +1,6 @@
 # Man of the Match Classifier
 
-Projeto de Machine Learning interpretável e explicável para prever o **Jogador da Partida** (Man of the Match) da Copa do Mundo FIFA 2018.
+Projeto de estudos de Machine Learning para prever o **Jogador da Partida** (Man of the Match) da Copa do Mundo FIFA 2018.
 
 ## Objetivo
 
