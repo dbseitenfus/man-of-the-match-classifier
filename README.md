@@ -11,7 +11,7 @@ Classificar, com base em estatísticas das partidas da FIFA 2018, qual time ou j
 `FIFA 2018 Statistics.csv` — contém estatísticas numéricas das partidas da Copa do Mundo FIFA 2018.
 
 - **Target:** coluna `Man of the Match` (convertida de `"Yes"`/`"No"` para binário)
-- **Features:** todas as colunas com dtype `int64`
+- **Features:** todas as colunas de tipo numérico
 
 ## Modelos
 
